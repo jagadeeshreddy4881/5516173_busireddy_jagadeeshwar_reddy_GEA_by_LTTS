@@ -1,0 +1,7 @@
+ssh -X JagadeeshwarR@172.16.17.7
+pass: Maven@1234
+master key : maven123
+br59_JagadeeshwarR
+sophasconnect
+user: br59_JagadeeshwarR
+pass: maven123
