@@ -2,16 +2,12 @@
 Global Engineering Academy |
 STEPIn
 ##
-
-
-
 <img width="735" height="485" alt="image" src="https://github.com/user-attachments/assets/c2b41ee3-8c2e-4404-b2e8-3a3c77dd90e4" />
 
-
-
-
-
 ## **course summary**
+<img width="1904" height="920" alt="Agile_course" src="https://github.com/user-attachments/assets/1f2320ec-f027-44cd-af8b-b850542d56d2" />
+
+
 
 link: https://lnkd.in/gi9QHH_Z
 
