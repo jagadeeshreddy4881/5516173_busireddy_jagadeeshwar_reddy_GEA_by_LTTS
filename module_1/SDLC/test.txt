@@ -1,0 +1,83 @@
+🚀Day -1 
+--------------------------------------------------------------------------------------------------------
+day-1 of my learning experience with the Global Engineering Academy by LTTS L&T Technology Services:
+
+ Grateful to the StepIn team for an insightful start to our journey.
+
+ session deepened my understanding of the evolving role of software and the structured approach behind building reliable systems. Key takeaways:
+
+🔹 Overcoming the software crisis through Software Engineering principles
+
+ 🔹 Importance of documentation, design diagrams, and testing artifacts
+
+ 🔹 SDLC models explored:
+
+ • Waterfall Model – Ideal for well-defined requirements
+
+ • V-Model – Emphasizes verification & validation at every stage
+
+ • Agile & Spiral Models – Handling uncertainty and evolving needs
+
+ 🔹 Clarified the difference between software product vs process
+
+ 🔹 Understood how functional requirements define system behavior
+
+🚀Day -2
+--------------------------------------------------------------------------------------------------------
+🚀 ✌ Day -2 of my learning experience with the Global Engineering Academy by LTTS L&T Technology Services:
+ Grateful to the StepIn team for another enriching session that built on our foundation and expanded our perspective on system design and testing.
+ session focused on the practical aspects of SDLC models and how they influence design workflows in real-world engineering environments.
+Key takeaways:
+ 🔹 Agile Model – (Briefly) Delivers working software in regular intervals and embraces change.
+ 🔹 Spiral Model – Ideal for projects with high uncertainty and risk
+ 🔹 Iterative Model – Emphasizes repeating cycles of development and refinement
+ 🔹 Class Diagram – A structural UML diagram that defines the static architecture of systems
+ 🔹 Functional Testing – Validates business logic and system behavior against requirements
+ 🔹 Non-functional requirements – Focused on performance, security, and usability
+
+🚀Day -3
+--------------------------------------------------------------------------------------------------------
+🎓 Day 3 at the Global Engineering Academy by LTTS L&T Technology Services with StepIn team:
+ session took us deeper into the world of Software Testing—a critical phase that ensures everything we build actually works the way it’s supposed to.
+Here’s what stuck with me:
+🔍 System Testing isn’t just about checking a few lines of code—it’s about validating the entire system as a unified whole.
+ 🧩 Integration Testing taught us how important it is to verify that modules connect and communicate properly.
+ 🧪 Unit Testing zooms in on individual components, making sure each one behaves correctly in isolation.
+ 👥 Acceptance Testing? That’s where the end-users step in to confirm if the product meets their expectations.
+ 🧠 White-box Testing requires digging into the source code, while
+ 🎭 Black-box Testing focuses on the user experience, ignoring the internal logic.
+ 📋 A Test Scenario outlines what needs to be tested, and a Test Suite bundles related test cases together.
+ 🐞 And when things go wrong? Defect Reporting helps us log and track issues so they can be resolved efficiently.
+ 🔄 Finally, we learned that STLC stands for Software Test Life Cycle - a structured approach to planning, executing, and closing the testing process.
+
+🚀Day -4 
+--------------------------------------------------------------------------------------------------------
+🎓 Day 4 at the Global Engineering Academy by LTTS L&T Technology Services with the STEP-IN team:
+
+session deep dive was all about understanding how the **corporate world builds software efficiently** using methodologies like **Agile**, **Scrum**, and **Sprints**—and it completely changed how I think about teamwork and project delivery.
+
+Here’s what I took away:
+
+⚙️ **Agile isn’t just a method—it’s a mindset**. It embraces change, promotes collaboration, and focuses on delivering value continuously.
+
+🔁 **Scrum** is the framework that brings Agile to life. It taught us the importance of roles like Product Owner, Scrum Master, and the Development Team—and how they work together to push the project forward.
+
+⏱️ **Sprints** are short, focused development cycles—usually 1-2 weeks—where teams commit to delivering specific features. It’s all about small wins that build toward big success.
+
+🧑‍💻 **Daily Stand-ups** keep communication tight and clear—what we did yesterday, what we’ll do today, and if there are any blockers.
+
+📈 **Sprint Planning & Review Meetings** ensure that teams are aligned on goals and accountable for outcomes.
+
+🧪 **Sprint Retrospectives** help us learn from each cycle—what went well, what didn’t, and how to improve next time.
+
+🚀Day -5 
+--------------------------------------------------------------------------------------------------------
+🎓 Day 5 at the Global Engineering Academy by LTTS L&T Technology Services with the STEP-IN team:
+session was a deep dive into how the industry ensures code quality and delivery speed using CI/CD pipelines and Static Code Analysis—and it reshaped how I view automation and reliability in software development.
+Here’s what I took away:
+🔄 CI/CD isn’t just automation—it’s discipline. Continuous Integration helps teams merge code frequently, run automated tests, and catch bugs early. Continuous Deployment ensures that validated code reaches production seamlessly.
+🛠️ Build Servers are the backbone of CI—they compile code, run tests, and generate artifacts automatically. No manual intervention, just clean, repeatable workflows.
+🧪 Static Code Analysis scans code without executing it—detecting syntax issues, code smells, and even security vulnerabilities before they become real problems.
+✅ Linters enforce coding standards and help maintain consistency across large codebases. They’re like silent guardians of code quality.
+⚠️ False Positives are a known limitation—but with proper tuning, static analysis becomes a powerful ally in the development lifecycle.
+
