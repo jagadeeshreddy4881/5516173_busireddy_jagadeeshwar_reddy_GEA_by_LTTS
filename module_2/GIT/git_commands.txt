@@ -1,0 +1,118 @@
+Week-2 Learning Summary: Git & GitHub
+---------------------------------------------------------
+---------------------------------------------------------
+Pre-requisites 
+Before starting the session, I installed and set up: 
+1. Git Bash – A terminal to run Git commands 
+2. GitHub Account – Signed up using my personal email 
+---------------------------------------------------------------
+1. Introduction to Version Control Systems 
+Version Control Systems (VCS) help track and manage code changes. 
+Types of VCS: 
+• Centralized VCS – A single central server (e.g., SVN) 
+• Distributed VCS – Every developer has a full copy (e.g., Git) 
+Git Features: 
+• Fast and distributed 
+• Tracks history and changes 
+• Supports branches, merging, and collaboration 
+------------------------------------------------------------------
+2. Basic Git Workflow 
+Git Structure: 
+• Working Directory – Your local project folder 
+• Staging Area (Index) – Prepares changes before commit 
+• Local Repository – Your versioned code on your machine 
+• Remote Repository – Stored on GitHub or GitLab 
+Important Terms: 
+• Origin – Name for the remote repository 
+• Master/Main – Default primary branch 
+• HEAD – Points to the current working commit
+-------------------------------------------------------------------
+3. Git Commands vs GUI (GitHub Desktop) 
+A. Local Repository Commands 
+Task           
+Command 
+Initialize Git               
+Check status  
+Add files to stage  
+Commit changes  
+View commit log  
+Remove staged file  
+Amend last commit  
+git init 
+git status 
+git add filename or git add . 
+git commit -m "commit message" 
+git log 
+git reset filename 
+git commit --amend 
+B. Remote Repository (GitHub) 
+Task  
+Clone repo  
+Add remote  
+Push changes  
+Pull updates  
+Remove remote  
+Command 
+git clone <repo-url> 
+git remote add origin <url> 
+git push origin main 
+git pull origin main 
+git remote remove origin 
+------------------------------------------------------------------------------
+4. Branching in Git 
+A. Branching 
+Task  
+Create branch  
+Switch branch  
+Create & switch  
+Push branch  
+Delete local branch  
+Delete remote branch  
+Compare branches  
+Update local with remote  
+Command 
+git branch feature-xyz 
+git checkout feature-xyz 
+git checkout -b feature-xyz 
+git push origin feature-xyz 
+git branch -d branch-name 
+git push origin --delete branch-name 
+git diff main feature-xyz 
+git pull 
+B. Merging & Conflict Resolution 
+Task  
+Merge branches  
+View conflicts  
+Rebase branch  
+Command 
+git merge branch-name 
+Occurs during merge – manual resolution 
+git rebase branch-name 
+C. Tagging in Git 
+Task  
+Create tag  
+Push tag  
+Delete tag (local)  
+Delete tag (remote)  
+Command 
+git tag v1.0 
+git push origin v1.0 
+git tag -d v1.0 
+git push origin --delete tag v1.0 
+D. Patches 
+Task  
+Generate 
+patch  
+Apply patch  
+Command 
+git format-patch1 
+git          
+applypatchfile.patch 
+----------------------------------------------------------------------------------
+5. Pull Requests 
+Pull Requests are used to propose changes and request review before merging. 
+Pull Request Steps: 
+1. Push your branch to GitHub 
+2. Click “New Pull Request” 
+3. Select base and compare branches 
+4. Submit PR and request reviewers
