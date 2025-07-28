@@ -25,16 +25,16 @@ This learning experience has helped me gain a deeper understanding of how modern
 <img width="1040" height="736" alt="git" src="https://github.com/user-attachments/assets/1c0a4314-ac48-4ecf-83cc-1f16a7995d93" />
 
 
-# Initialize Git repository (if not already initialized)
+ Initialize Git repository (if not already initialized)
 git init
 
-# Add the text file to staging
+Add the text file to staging
 git add sample.txt
 
-# Commit the file with a message
+ Commit the file with a message
 git commit -m "Add sample.txt file"
 
-# Push to remote repository (replace 'origin' and 'main' if needed)
+ Push to remote repository (replace 'origin' and 'main' if needed)
 git push origin main....... etc..
 ........
 
